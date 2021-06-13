@@ -1,4 +1,3 @@
-[{
-  "keys": ["shift+alt+b"],
-  "command": "banner"
-}]
+[
+    { "keys": ["alt+shift+b"], "command": "banner" }
+]
