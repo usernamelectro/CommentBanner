@@ -1,12 +1,13 @@
 [
-	{
-		"id" : "edit",
-		"children" : [
-						{
-							"id" : "banner",
-							"caption" : "banner",
-							"command" : "banner"
-						}
-					]
-	}
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "id": "banner",
+                "caption": "banner",
+                "command": "banner"
+            }
+        ]
+    }
 ]
