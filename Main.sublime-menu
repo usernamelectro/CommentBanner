@@ -5,7 +5,7 @@
         [
             {
                 "id": "banner",
-                "caption": "banner",
+                "caption": "CommentBanner",
                 "command": "banner"
             }
         ]
